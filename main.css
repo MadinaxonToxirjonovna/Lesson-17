@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 58%;
+    height: 625px;
+    background:#ff3333;
+    margin-top: 50px;
+    display: flex;
+    gap: 20px;
+}
+
+.Half1 button{
+    width: 500px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+.Half2 button{
+    width: 500px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+.Fourth1 button{
+    width: 240px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 120px 0 0 -1040px;
+}
+
+.Fourth2 button{
+    width: 240px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 120px 0 0 -800px;
+}
+
+.Fourth3 button{
+    width: 240px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 120px 0 0 -560px;
+}
+
+.Fourth4 button{
+    width: 240px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 120px 0 0 -320px;
+}
+
+.Third1 button{
+    width: 325px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 225px 0 0 -1120px;
+}
+
+.Third2 button{
+    width: 325px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 225px 0 0 -792px;
+}
+
+.Third3 button{
+    width: 325px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 225px 0 0 -466px;
+}
+
+.Fullwidth button{
+    width: 1018px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 325px 0 0 -1180px;
+}
+
+.Sixth1 button{
+    width: 156px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 425px 0 0 -1200px;
+}
+
+.Sixth2 button{
+    width: 156px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 425px 0 0 -1050px;
+}
+
+.Sixth3 button{
+    width: 156px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 425px 0 0 -900px;
+}
+
+.Sixth4 button{
+    width: 156px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 425px 0 0 -750px;
+}
+
+.Sixth5 button{
+    width: 156px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 425px 0 0 -595px;
+}
+
+.Sixth6 button{
+    width: 156px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 425px 0 0 -440px;
+}
+
+.Half3 button{
+    width: 500px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 525px;*/
+    font-size: 20px;
+    color: white;
+    margin: 525px 0 0 -1320px;;
+}
+
+.Half4 button{
+    width: 500px;
+    height: 80px;
+    background: #ff8080;
+    border: 2px solid white;
+    border-radius: 3px;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+    color: white;
+    margin: 525px 0 0 -825px; ;
+}
